@@ -11,3 +11,13 @@ pipwin install pyaudio
 
 Finally run Jarvis and have fun.
 
+There are some packages you have to install using the pip command
+such as =
+pip install speech_recognition 
+pip install pyttsx3
+pip install datetime
+pip install wikipedia
+pip install webbrowser
+pip install ecapture==0.0.7
+pip install wolframalpha
+pip install requests
